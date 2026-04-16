@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hr-app",
-    "slug": "hr-app",
+    "name": "peoples-field-hr",
+    "slug": "peoples-field-hr",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
